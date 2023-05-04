@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>Carousel</title>
+        <link href="Carousel.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <!-- a slideshow that contains random images with an automatic timed (5 second) change delay-->
+
+        <div class="slideshow-container">
+
+            <div class="mySlides fade"> <!-- Each of these div classes contains the slide of a picture-->
+                <div class="numbertext"> 1/5 </div>
+                <img src="carouselimages/bakuguo.png" style="width:100%;"></img>
+                <div class="text"> Bakuguo </div>
+                </div>
+
+            <div class="mySlides fade">
+                <div class="numbertext"> 2/5 </div>
+                <img src="carouselimages/greyteifling.png" style="width:100%;"></img>
+                <div class="text"> Astra the Teifling </div>
+                </div>
+        
+            <div class="mySlides fade">
+                <div class="numbertext"> 3/5 </div>
+                <img src="carouselimages/hawks.png" style="width:100%;"></img>
+                <div class="text"> Hawks </div>
+                </div>
+
+            <div class="mySlides fade">
+                <div class="numbertext"> 4/5 </div>
+                <img src="carouselimages/Mina.png" style="width:100%;"></img>
+                <div class="text"> Mina </div>
+                </div>
+        
+            <div class="mySlides fade">
+                <div class="numbertext"> 5/5 </div>
+                <img src="carouselimages/redtiefling.png" style="width:100%;"></img>
+                <div class="text"> Burst the Teifling </div>
+                </div>
+        </div>
+
+
+        <div style="text-align:center"> <!-- The circles that represent how many slides there are -->
+            <span class="dot" onclick="currentSlide(1)"></span>
+            <span class="dot" onclick="currentSlide(2)"></span>
+            <span class="dot" onclick="currentSlide(3)"></span>
+            <span class="dot" onclick="currentSlide(4)"></span>
+            <span class="dot" onclick="currentSlide(5)"></span>
+        </div>
+    </body>
+    <script src="Carousel.js">s</script>
+</html>

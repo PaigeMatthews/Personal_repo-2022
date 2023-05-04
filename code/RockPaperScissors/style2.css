@@ -1,0 +1,16 @@
+body {
+    background-color:black;
+}
+
+.buttons {
+    padding: 10px;
+    margin:10px;
+    text-align:center;
+    background-color:#527506;
+    color:#FEE50F;
+}
+
+#player-score, #house-score, #result {
+    color:#385a0E;
+    size:15px; 
+}

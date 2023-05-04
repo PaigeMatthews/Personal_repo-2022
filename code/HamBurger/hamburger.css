@@ -1,0 +1,29 @@
+.navbar{
+    overflow:hidden;
+    background-color:teal;
+    position:relative;
+    padding:10px;
+}
+div #hb{
+    width:35px;
+    height: 5px;
+    background-color: blue;
+    margin:6px;
+}
+.hamb{
+    display:block;
+    padding:5px;
+}
+#links{
+    display:none;
+    position:fixed;
+}
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:10px;
+    background-color: aquamarine;
+}
+li{
+    display:inline;
+}
