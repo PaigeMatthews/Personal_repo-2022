@@ -1,0 +1,6 @@
+
+Before I didn't really have a time management system. Occasionally I would have a to do list but I wouldn't order them or prioritise them. I'd just hope for the best. Which isn't an effective way of going about it. 
+I had seen things like time blocking before in study guides but I had never really used it. So for this I went and researched the most effective study techniques. Through YouTube and looking up different techniques. Quickly it becomes apparent that doctors tend to have the best study techniques as well as time management techniques, most likely due to the fact that they have to study for about 10 years throughout their medical studies.
+Cajun Koi Academy was a big one for different study techniques, on YouTube. 
+https://www.usa.edu/blog/time-management-techniques/ USA.Edu gave me the most information and because these were techniques all of the other links I used to supplement gave me exactly the same information. I also looked more closely into studying techniques for neurodivergent folk, which was interesting as there are certain techniques that work better for people with ASD and ADHD than other people. 
+It became apparent in my research that you can not just use one technique alone and expect it to be effective. So using a combination of techniques is often a good approach. 

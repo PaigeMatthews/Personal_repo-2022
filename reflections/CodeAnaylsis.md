@@ -1,0 +1,4 @@
+While I did not have a chance throughout my school year to be able to use any kind of debugging analysis software, it was discussed several times and the benefits. Visual Studio Code has a built in debugging system which was often used throughout the course.
+Checkstyle would have been my go to developmnent tool, but due to the type of project work that is done in first year, I didn't find any need to use any of these types of tools, seeing as until the very end of the year I hadn't used any kind of Java. 
+While I hadn't been able to use this development tool I believe it would have been very helpful in making sure that I was working to the correct coding standard. Formatting seems to be a big part of the process of this tool and this would have been useful as it is one of the things that makes the coding process run smoother.
+The system creates a running report of the code used and helps the developer improve the way they write the code.

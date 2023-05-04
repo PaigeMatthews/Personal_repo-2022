@@ -1,0 +1,15 @@
+
+Throughout the building of the health care app we had to think about the adding of security.
+Creating an app that has is based on very senstive data can be difficult. We need to think about adding a level of security that would allow the client to feel secure that the data they were entering wasn't being used else where or being able to be seen by anyone bar themselves.
+This meant adding a login system so only they could login in to their data and in that login system having the password come up as hidden to avoid people being to be able to easily access the data.
+We would have to ensure that our customers used alphanumeric passwords to reduce any password attacks.
+This could have been done on the login page when the password bar was clicked.
+We would have to ensure to our client that we would never send them a fraudulent email or ask for any credit card details.
+Our app was free and never had the intent of making money.
+This allowed the customer to be assured that they would not get a phishing attack, this would alert our customer that any emails they got from our service was not us and should be ignored to stop any unwanted viruses being accidently downloaded.
+Seeing as we are a smaller company there is less risk of having a cyber attack but should one happen we would need to have security in place. I feel like this could have been improved, but as we did not finish either of the projects then I can not be sure whether or not these features would have been added.
+
+Reference: Cyber_Security - by Paige, stored in Bitbucket
+Pathway - Notes/Cyber_Security
+
+https://www.youtube.com/watch?v=inWWhr5tnEA | Cyber Security  - Simplilearn

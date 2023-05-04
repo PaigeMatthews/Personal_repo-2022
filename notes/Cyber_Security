@@ -1,0 +1,22 @@
+Taken from [[https://www.youtube.com/watch?v=inWWhr5tnEA | Cyber Security  - Simplilearn]] 
+Malware attacks are the most common kind of cyber attacks. They include various types, Trojan, Adware and spyware. These can be transferred by downloading a virus from a corrupted file.
+
+Phishing Attacks are when a hackers sends fraudulent emails which appear to be froma  creditable source. This allows them to steal sensitive data or upload a certain virus.
+
+Man in the middle attacks allow hackers to get in between the client's device and the servers. This allows the hacker to redirect the IP address to them instead of the server. This means the communication line is secret intercepted. This commonly happens with unsecure wifi networks and also through malware.
+
+Password attack is one of the easiest ways to hack a system. They try to crack the password by using common phrases or all possible combinations.
+
+Firewalls are a virtual wall that filter the incoming and outgoing traffic from computers. They can come as hardware reinforcements or software applications.
+
+Honey Pots are dummy computer systems that are used to attract attackers. These systems are made to look vunerable to decieve attackers and this defends their real system.
+
+Other things that can keep your machine safe from cyber attacks are alphanumeric passwords (wdn389NB, HKrhb37jf), anti-virus software and avoiding emails from unknown senders.
+
+Cyber attacks are not just directed at individuals but also public or private investigations. Larger groups tend to recieve heavier and more expansive cyber attacks. Resulting in colossal losses. Motives can include tampering with crucial data to monetary gains.
+
+Many larger corporations face the advanced persistent threat or APT. Hackers gain access to networks for a long period to continuosly gain confidential information. They can also be subject to denial of service attacks where networks are flooded with traffic which leaves ligitimate service requests unattended. A variant of these is called the DDoS attack or Distributed Denial of Service, this is when multiple systems are used to launch the attack.
+
+SQL Injection attacks are when a hacker manipulates a standard SQL query in a database driven website. By doing so hackers can view, edit and delete tables from databases.
+
+Cyber Security job roles; Ethical hackers, Security architect, Chief Information Security Officer (CISO)
